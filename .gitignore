@@ -1,3 +1,9 @@
+# ignore files in folder out
+out/*
+
+# but keep the folder
+!out/.keep
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
